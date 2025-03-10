@@ -1,0 +1,89 @@
+<html>
+    <head><title>Top 10 Music</title></head>
+    <style>
+        body {
+            margin: 0; 
+            padding: 0; 
+        }
+        .bold-title {
+            font-weight: bold; 
+            font-size: 24px; 
+            text-align: center;
+            margin: 10px; 
+        }
+        .song-box {
+            background-color: white;
+            height: 390px;
+            width: 250px;
+            border: 1px solid black;
+            float: left;
+            padding: 10px; 
+            margin: 10px;
+            text-align: center;
+        }
+        img {
+            margin-top: 5px;
+            margin-right: auto;
+            margin-left: auto;
+            display: block;
+        }
+        p {
+            font-size: 18px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+    <body>
+        <div class="bold-title"> Samuel's Top 10 Favorite Songs!</div> 
+        
+        <div class="song-box">Top 1
+            <br> <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" height="90px" width="90px" alt="Placeholder Image 1">
+            <br> <p>"All Falls Down" "All Falls Down" by Kanye West, featuring Syleena Johnson, is a song from his album "The College Dropout" that explores themes of self-consciousness, insecurity, and the pursuit of materialism, particularly within the Black community. </p>
+        </div>
+        <div class="song-box">Top 2
+            <br> <img src="https://cdn-images.dzcdn.net/images/cover/6226fe6af281af16ebf5e45fb521dda1/0x1900-000000-80-0-0.jpg" height="90px" width="90px" alt="top2">
+            <br> <p>“Eba” Eba by kiyo, is a love song that speaks about a story that will last forever. With witty and deep lines he writes the song Kiyo talks about how madly in love he is with her girlfriend. How he wants to spend his life forever with her. </p>
+        </div>
+        <div class="song-box">Top 3
+          <br> <img src ="https://images.genius.com/1f5cc2dbac307c27261849f4f49771ae.1000x1000x1.png"  
+          height="90px" width="90px" alt="top3">
+          <br> <p>"Come Back To Earth" by Mac Miller is the first song from his album Swimming. Mac also establishes the conflict between a new found sense of optimism and his perennial challenges with depression, isolation and addiction.</p>
+
+        </div>
+        <div class="song-box">Top 4
+          <br> <img src = "https://i.scdn.co/image/ab67616d0000b273e321a69d7454d9365c667187" 
+          height="90px" width="90px" alt="top4">
+          <br> <p>“Nothing” Bruno Major said that he wrote this song about his experience of love. His experience of love was in simple things like eating popcorn while watching Netflix and playing Nintendo (which makes an appearance in this song).</p>
+        </div>
+        <div class="song-box">Top 5
+          <br> <img src = "https://i.scdn.co/image/ab67616d0000b273c16d12c672e54d4ae96232cb" height="90px" width="90px" alt="top5"> 	
+          <br> <p> “Heaven Knows” s a poignant track from the Filipino indie pop band Orange & Lemons, featured on their 2005 album Strike Whilst The Iron Is Hot. The song encapsulates themes of heartbreak, longing, and regret, reflecting the emotional turmoil of a narrator grappling with the loss of a beloved figure.  </p>
+        </div>
+        <div class="song-box">Top 6
+          <br> <img src = "https://i.scdn.co/image/ab67616d0000b273e1eb7dcffb820f82dea0348b"
+           height="90px" width="90px" alt="top6">
+          <p> "Magbalik" is considered the most popular song by Callalily. Its enduring popularity can be attributed to its iconic guitar intro. The monumental guitar riff has also become a fundamental guitar exercise in the key of E major across music instructional schools in the country.</p>
+        </div>
+        <div class="song-box">Top 7
+          <br> <img src="https://i.scdn.co/image/ab67616d0000b2733138f891f3075c9c5d944037"
+           height="90px" width="90px" alt="top7">
+          <p> Daniel Ceasar's "We Find Love"  “We Find Love” was released as the first part of the two-part EP with the song “Blessed.” “We Find Love” is about the fallout of a relationship that is put back together in “Blessed.” </p>
+        </div>
+        <div class="song-box">Top 8
+          <br> <img src="https://i.scdn.co/image/ab67616d0000b273c6bfaf942ed981d5c4c922e4" 
+          height="90px" width="90px" alt="top8">
+          <br> <p>"You're Gonna Live Forever In me" “You’re Gonna Live Forever In Me” holds the promise of a legacy. John considers the impact that a special person has had on his life, claiming that “parts of [him] were made by [them].” </p>
+        </div>
+        <div class="song-box">Top 9
+          <br> <img src="https://i.scdn.co/image/ab67616d0000b273a67b6499ef1bf3db5aa9bfe3" 
+          height="90px" width="90px" alt="top9">
+          <br> <p> Noah Alejandre's “Di Man Tinadhana” was written after confessing to someone who’s been a friend for a very long time. It’s a song about having to accept that both of you weren’t meant to be in the first place, yet never great regretting a single moment of spending your time with that person." </p>
+        </div>
+        <div class="song-box">Top 10
+          <br> <img src="https://i.scdn.co/image/ab67616d0000b2732dec0426c3e27a180d7f894c"
+           height="90px" width="90px" alt="top10">
+          <br> <p> boy pablo's “Te Vas // Don’t Go” is about the perspective of one of the two in a failed relationship and their significant other leaving. This connection eventually doesn’t work and asks why they are leaving and how they can make up to keep this same relationship.
+          </p>
+        </div>
+    </body>
+</html>

@@ -1,39 +1,56 @@
-<html>
-    <head><title>Top 10 Music</title></head>
-    <style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 10 Music</title>
+     <style>
         body {
             margin: 0; 
             padding: 0; 
+            background-image: url('https://i8.amplience.net/i/naras/GRAMMYS_2025_HERO_6.webp');
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat; 
+            font-family: Arial, Helvetica, sans-serif;
         }
         .bold-title {
             font-weight: bold; 
             font-size: 24px; 
             text-align: center;
             margin: 10px; 
+            color: white; 
+        }
+        .song-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center; 
         }
         .song-box {
-            background-color: white;
+            background-color: rgba(255, 255, 255, 0.8); 
             height: 390px;
             width: 250px;
             border: 1px solid black;
-            float: left;
+	    float: left;
             padding: 10px; 
             margin: 10px;
             text-align: center;
+            
         }
         img {
             margin-top: 5px;
-            margin-right: auto;
-            margin-left: auto;
             display: block;
+            margin-left: auto;
+            margin-right: auto;
         }
         p {
             font-size: 18px;
             text-align: center;
-            font-family: Arial, Helvetica, sans-serif;
+		
         }
     </style>
-    <body>
+</head>
+ <body>
         <div class="bold-title"> Samuel's Top 10 Favorite Songs!</div> 
         
         <div class="song-box">Top 1
@@ -86,4 +103,5 @@
           </p>
         </div>
     </body>
+</html>
 </html>
